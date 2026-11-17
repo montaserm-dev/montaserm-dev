@@ -8,10 +8,10 @@ Building clean, responsive, and user-focused web experiences.
 
 <br>
 
-<a href="https://github.com/montaser-dev">
+<a href="https://github.com/montaserm-dev">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/montaser-dev/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
