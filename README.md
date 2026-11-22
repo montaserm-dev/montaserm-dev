@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Montaser 👋
+# Hi, I'm Montaser 👋
 
 ### Front-End Developer
 
