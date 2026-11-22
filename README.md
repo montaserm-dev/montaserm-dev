@@ -37,7 +37,7 @@ I'm continuously improving my development skills through practical projects, pro
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts" alt="Frontend technologies">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind" alt="Frontend technologies">
 </p>
 
 ### Tools
